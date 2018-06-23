@@ -1,0 +1,8 @@
+# Node Modules
+node_modules/
+
+# Config
+database/config/
+
+#Package-lock
+package-lock.json
